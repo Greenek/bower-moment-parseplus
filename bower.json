@@ -1,0 +1,26 @@
+{
+  "name": "moment-parseplus",
+  "description": "Date parsing plugin for momentjs",
+  "main": "parseplus.js",
+  "license": "MIT",
+  "ignore": [],
+  "keywords": [
+    "moment",
+    "momentjs",
+    "date",
+    "parse",
+    "parsing",
+    "locale"
+  ],
+  "authors": [
+    "Ken Snyder <kendsnyder@gmail.com>"
+  ],
+  "homepage": "https://github.com/kensnyder/moment-parseplus#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Greenek/bower-moment-parseplus.git"
+  },
+  "dependencies": {
+    "moment": "^2.6.0"
+  }
+}
